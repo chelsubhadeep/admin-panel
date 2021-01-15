@@ -26,7 +26,12 @@
         itaque. Consectetur doloribus quae quis suscipit laudantium neque
         facilis dolor accusamus.
       </p>
-
+      <p class="red darken-8 yellow--text">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates
+        illo dolores iusto tenetur cumque error tempore, nobis rerum impedit
+        itaque. Consectetur doloribus quae quis suscipit laudantium neque
+        facilis dolor accusamus.
+      </p>
       <h1 class="display-4">Massive Display</h1>
       <h4 class="display-1 font-weight-thin">Massive Display</h4>
       <p class="headline">This is a headline</p>
